@@ -2,8 +2,8 @@ import React from "react";
 import { useSelector } from "react-redux";
 
 const Checklist = ()=>{
+    // Selector is used to fetch data from the redux store
     const selector = useSelector((state)=>{return state.addToCartSlice})
-    console.log(selector)
     return(
         <div className="checklist-container">
             <div className="checklist-content">
