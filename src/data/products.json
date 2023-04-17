@@ -1,0 +1,24 @@
+{
+    "products":[
+        {
+            "id":"1",
+            "name":"Laptop"
+        },
+        {
+            "id":"2",
+            "name":"Mic"
+        },
+        {
+            "id":"3",
+            "name":"Charger"
+        },
+        {
+            "id":"4",
+            "name":"Headphones"
+        },
+        {
+            "id":"5",
+            "name":"Keyboard"
+        }
+    ]
+}
